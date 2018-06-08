@@ -6,3 +6,6 @@ git status
 
 # save changes in .git direcotry /local
 git commit -m "some msg"
+
+# 4 areas in git
+# localfolder/workingtree, staging, localrepo/localgitfolder, remote/online git repo/folder
