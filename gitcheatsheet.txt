@@ -1,2 +1,8 @@
 # add files to stage area
 git add  .
+
+# see which state files are in 
+git status
+
+# save changes in .git direcotry /local
+git commit -m "some msg"
